@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=microservice-consumer-dept-fiegn/src\/main\/java&amp;lt;com.atguigu.springcloud{DeptConsumerfiegn.java[DeptConsumerfiegn&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=microservice-consumer-dept-feign/src\/main\/java&amp;lt;com.atguigu.springcloud{DeptConsumerfiegn.java[DeptConsumerfiegn&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=microservice-consumer-dept-80/src\/main\/java&amp;lt;com.atguigu.springcloud{DeptConsumer80_APP.java[DeptConsumer80_APP&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=microservice-provider-dept-8002/src\/main\/java&amp;lt;com.atguigu.springcloud{DeptProvider8002_App.java[DeptProvider8002_App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=microservice-provider-dept-8003/src\/main\/java&amp;lt;com.atguigu.springcloud{DeptProvider8003_App.java[DeptProvider8003_App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=microservice-provider-dept-8001/src\/main\/java&amp;lt;com.atguigu.springcloud{DeptProvider8001_App.java[DeptProvider8001_App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=microservice-consumer-dept-feign/src\/main\/java&amp;lt;com.atguigu.springcloud{DeptConsumer80_Feign.java[DeptConsumer80_Feign&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=microservice-provider-dept-hystrix-8001/src\/main\/java&amp;lt;com.atguigu.springcloud{DeptProvider8001_App_Hystrix.java[DeptProvider8001_App_Hystrix&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=microservice-consumer-hystrix-dashboard/src\/main\/java&amp;lt;com.aiguigu.springlcloud{DeptConsmer_DashBoard_APp.java[DeptConsmer_DashBoard_APp&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="378" key="DIALOG_X_ORIGIN"/>
+			<item value="105" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

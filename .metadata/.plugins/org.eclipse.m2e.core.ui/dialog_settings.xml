@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.atguigu.springcloud"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="microservice-consumer-hystrix-dashboard"/>
+			<item value="microservicecloud"/>
+			<item value="microservice-provider-dept-hystrix-8001"/>
+			<item value="microservice-consumer-dept-feign"/>
+			<item value="microservice-consumer-dept-fiegn"/>
+			<item value="microservice-provider-dept-8003"/>
+			<item value="microservice-provider-dept-8002"/>
+			<item value="microservice-eureka-7003"/>
+			<item value="microservice-eureka-7002"/>
+			<item value="microservice-eureka-7001"/>
+			<item value="microservice-consumer-dept-80"/>
+			<item value="microservice-provider-dept-8001"/>
+			<item value="microservicecloud-api"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="microservice-consumer-hystrix-dashboard"/>
+			<item value="microservice-provider-dept-hystrix-8001"/>
+			<item value="microservice-consumer-dept-feign"/>
+			<item value="microservice-consumer-dept-fiegn"/>
+			<item value="microservice-provider-dept-8003"/>
+			<item value="microservice-provider-dept-8002"/>
+			<item value="microservice-eureka-7003"/>
+			<item value="microservice-eureka-7002"/>
+			<item value="microservice-eureka-7001"/>
+			<item value="microservice-consumer-dept-80"/>
+			<item value="microservice-provider-dept-8001"/>
+			<item value="microservicecloud-api"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.microservice.consumer.hystrix.dashboard"/>
+		</list>
+		<list key="groupId">
+			<item value="com.atguigu.springcloud"/>
+		</list>
+		<list key="artifactId">
+			<item value="microservice-consumer-hystrix-dashboard"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

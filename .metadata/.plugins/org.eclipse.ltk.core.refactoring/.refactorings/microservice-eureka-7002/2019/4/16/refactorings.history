@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.atguigu.springcloud.EureKaServer7001_APP&apos; to &apos;EureKaServer7002_APP&apos;&#x0A;- Original project: &apos;microservice-eureka-7002&apos;&#x0A;- Original element: &apos;com.atguigu.springcloud.EureKaServer7001_APP&apos;&#x0A;- Renamed element: &apos;com.atguigu.springcloud.EureKaServer7002_APP&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EureKaServer7001_APP&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.atguigu.springcloud{EureKaServer7001_APP.java[EureKaServer7001_APP" matchStrategy="1" name="EureKaServer7002_APP" qualified="false" references="true" similarDeclarations="false" stamp="1555246640907" textual="false" version="1.0"/>
+</session>

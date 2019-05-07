@@ -1,0 +1,42 @@
+server:
+  port: 8003
+ 
+mybatis:
+  config-location: classpath:mybatis/mybatis.cfg.xml   ##mybaties配置文件所在路径
+  type-aliases-package: com.atguigu.springcloud.entities  ##Entities别名类所在包
+  mapper-locations:
+  - classpath:mybatis/mapper/**/*.xml                     ##mapper映射文件
+  
+spring:
+  application:
+    name: microservicecloud-dept
+  datasource:
+     type: com.alibaba.druid.pool.DruidDataSource
+     driver-class-name: org.gjt.mm.mysql.Driver
+     url: jdbc:mysql://62.234.44.92:3306/cloudDB03
+     username: root
+     password: 123456
+     dbcp2:
+      min-idle: 5
+      initialize: 5
+      max-wait-millis: 200
+      max-total: 5
+      
+      
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7003.com:7003/eureka/,http://eureka7002.com:7002/eureka/
+      
+  instance:
+    instance-id: microservicecloud-dept8003
+    prefer-ip-address: true
+    
+info:
+  app.name: atguigu-microservicecloud
+  comany.name: wwww.atguigu.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+      
+  
+  
