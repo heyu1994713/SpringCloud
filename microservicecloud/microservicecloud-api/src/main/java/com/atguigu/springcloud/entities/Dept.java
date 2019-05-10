@@ -20,7 +20,8 @@ public class Dept implements Serializable{
 	private String deptname;
 	//采用那个数据库
 	private String db_source;
-	
+	//名字
+	private String  name;
 	
 	public static void main(String[] args) {
 		Dept dept=new Dept();
